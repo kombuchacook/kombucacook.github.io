@@ -60,7 +60,7 @@ a {
 
 header h1 {
   font-size: 2.8em;
-  color: #ff4e4e;
+  color: #000;
   font-weight: 900; }
 
 .post h1 a {
@@ -95,7 +95,7 @@ header h1 {
     list-style-type: none; }
     .post .recipe-contents ul li:before {
       content: '\00bb';
-      color: #ff4e4e;
+      color: #1BB0CE;
       padding-right: 0.5em; }
 .post .recipe-contents ol {
   padding: 0; }
@@ -107,7 +107,7 @@ header h1 {
     .post .recipe-contents ol li:before {
       content: counter(step-counter);
       margin-right: 0px;
-      background-color: #ff4e4e;
+      background-color: #1BB0CE;
       color: white;
       /* padding: 1px 7px; */
       font-size: .7em;
@@ -342,7 +342,7 @@ nav {
     list-style-type: none; }
     .recipes ul li:before {
       content: '\00bb';
-      color: #ff4e4e;
+      color: #1BB0CE;
       padding-right: 0.5em; }
     .recipes ul li a {
       text-decoration: none;
